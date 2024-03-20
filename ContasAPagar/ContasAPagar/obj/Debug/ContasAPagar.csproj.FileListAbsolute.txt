@@ -1,0 +1,7 @@
+C:\Repositorio\ContasAPagar\ContasAPagar\bin\Debug\ContasAPagar.exe.config
+C:\Repositorio\ContasAPagar\ContasAPagar\bin\Debug\ContasAPagar.exe
+C:\Repositorio\ContasAPagar\ContasAPagar\bin\Debug\ContasAPagar.pdb
+C:\Repositorio\ContasAPagar\ContasAPagar\obj\Debug\ContasAPagar.csproj.AssemblyReference.cache
+C:\Repositorio\ContasAPagar\ContasAPagar\obj\Debug\ContasAPagar.csproj.CoreCompileInputs.cache
+C:\Repositorio\ContasAPagar\ContasAPagar\obj\Debug\ContasAPagar.exe
+C:\Repositorio\ContasAPagar\ContasAPagar\obj\Debug\ContasAPagar.pdb
